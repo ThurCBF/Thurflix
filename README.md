@@ -1,2 +1,2 @@
-# Thurflix
-projeto e pagina de HTML/CSS/JAVASCRIPT e consumo de API
+# Gmflix
+Projeto e página HTML/CSS/JAVASCRIPT e consumo de API
